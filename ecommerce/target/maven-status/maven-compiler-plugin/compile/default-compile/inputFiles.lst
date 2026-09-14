@@ -1,0 +1,15 @@
+C:\Users\phmar\OneDrive\Documentos\ecommerce-backend-4b\ecommerce\src\main\java\br\edu\unifio\ecommerce\EcommerceApplication.java
+C:\Users\phmar\OneDrive\Documentos\ecommerce-backend-4b\ecommerce\src\main\java\br\edu\unifio\ecommerce\entidades\Categoria.java
+C:\Users\phmar\OneDrive\Documentos\ecommerce-backend-4b\ecommerce\src\main\java\br\edu\unifio\ecommerce\entidades\Cliente.java
+C:\Users\phmar\OneDrive\Documentos\ecommerce-backend-4b\ecommerce\src\main\java\br\edu\unifio\ecommerce\entidades\FormaPagamento.java
+C:\Users\phmar\OneDrive\Documentos\ecommerce-backend-4b\ecommerce\src\main\java\br\edu\unifio\ecommerce\entidades\ItemPedido.java
+C:\Users\phmar\OneDrive\Documentos\ecommerce-backend-4b\ecommerce\src\main\java\br\edu\unifio\ecommerce\entidades\Pagamento.java
+C:\Users\phmar\OneDrive\Documentos\ecommerce-backend-4b\ecommerce\src\main\java\br\edu\unifio\ecommerce\entidades\Pedido.java
+C:\Users\phmar\OneDrive\Documentos\ecommerce-backend-4b\ecommerce\src\main\java\br\edu\unifio\ecommerce\entidades\Produto.java
+C:\Users\phmar\OneDrive\Documentos\ecommerce-backend-4b\ecommerce\src\main\java\br\edu\unifio\ecommerce\entidades\StatusPedido.java
+C:\Users\phmar\OneDrive\Documentos\ecommerce-backend-4b\ecommerce\src\main\java\br\edu\unifio\ecommerce\repositorios\CategoriaRepositorio.java
+C:\Users\phmar\OneDrive\Documentos\ecommerce-backend-4b\ecommerce\src\main\java\br\edu\unifio\ecommerce\repositorios\ClienteRepositorio.java
+C:\Users\phmar\OneDrive\Documentos\ecommerce-backend-4b\ecommerce\src\main\java\br\edu\unifio\ecommerce\repositorios\ItemPedidoRepositorio.java
+C:\Users\phmar\OneDrive\Documentos\ecommerce-backend-4b\ecommerce\src\main\java\br\edu\unifio\ecommerce\repositorios\PagamentoRepositorio.java
+C:\Users\phmar\OneDrive\Documentos\ecommerce-backend-4b\ecommerce\src\main\java\br\edu\unifio\ecommerce\repositorios\PedidoRepositorio.java
+C:\Users\phmar\OneDrive\Documentos\ecommerce-backend-4b\ecommerce\src\main\java\br\edu\unifio\ecommerce\repositorios\ProdutoRepositorio.java

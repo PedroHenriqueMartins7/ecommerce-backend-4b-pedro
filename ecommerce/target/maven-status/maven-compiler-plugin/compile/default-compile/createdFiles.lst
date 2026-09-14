@@ -1,0 +1,15 @@
+br\edu\unifio\ecommerce\entidades\ItemPedido.class
+br\edu\unifio\ecommerce\repositorios\PedidoRepositorio.class
+br\edu\unifio\ecommerce\entidades\Cliente.class
+br\edu\unifio\ecommerce\repositorios\ProdutoRepositorio.class
+br\edu\unifio\ecommerce\entidades\Pedido.class
+br\edu\unifio\ecommerce\entidades\Categoria.class
+br\edu\unifio\ecommerce\entidades\StatusPedido.class
+br\edu\unifio\ecommerce\repositorios\CategoriaRepositorio.class
+br\edu\unifio\ecommerce\repositorios\PagamentoRepositorio.class
+br\edu\unifio\ecommerce\entidades\Pagamento.class
+br\edu\unifio\ecommerce\repositorios\ClienteRepositorio.class
+br\edu\unifio\ecommerce\entidades\Produto.class
+br\edu\unifio\ecommerce\entidades\FormaPagamento.class
+br\edu\unifio\ecommerce\EcommerceApplication.class
+br\edu\unifio\ecommerce\repositorios\ItemPedidoRepositorio.class

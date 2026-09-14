@@ -1,0 +1,7 @@
+br\edu\unifio\ecommerce\repositorios\ClienteRepositorioTest.class
+br\edu\unifio\ecommerce\repositorios\PagamentoRepositorioTest.class
+br\edu\unifio\ecommerce\repositorios\ProdutoRepositorioTest.class
+br\edu\unifio\ecommerce\repositorios\CategoriaRepositorioTest.class
+br\edu\unifio\ecommerce\EcommerceApplicationTests.class
+br\edu\unifio\ecommerce\repositorios\ItemPedidoRepositorioTest.class
+br\edu\unifio\ecommerce\repositorios\PedidoRepositorioTest.class
